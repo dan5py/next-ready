@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/dan5py/next-ready/blob/main/public/logo.svg?raw=true" height="48" alt="Next Ready" style="">
+</p>
+
 This is a [Next.js](https://nextjs.org/) template to get you started with a new project.
 
 ## Features
