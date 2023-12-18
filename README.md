@@ -9,6 +9,7 @@ This is a [Next.js](https://nextjs.org/) template to get you started with a new 
 - [ESLint](https://eslint.org/)
 - [husky](https://typicode.github.io/husky/#/)
 - [commitlint](https://commitlint.js.org/)
+- [lint-staged](https://github.com/lint-staged/lint-staged)
 
 ## Getting Started
 
