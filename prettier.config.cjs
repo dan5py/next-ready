@@ -6,4 +6,5 @@ module.exports = {
   semi: true,
   trailingComma: 'es5',
   plugins: ['prettier-plugin-tailwindcss'],
+  tailwindFunctions: ['cn'],
 };
