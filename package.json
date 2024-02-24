@@ -32,8 +32,6 @@
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-prettier": "^5.0.1",
     "husky": "^8.0.3",
     "lint-staged": "^15.2.0",
     "next-themes": "^0.2.1",
