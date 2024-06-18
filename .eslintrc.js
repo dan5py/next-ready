@@ -1,7 +1,7 @@
 /**
  * @type {import('eslint').Linter.Config}
  */
-const config = {
+module.exports = {
   extends: ['next/core-web-vitals', 'plugin:@typescript-eslint/recommended'],
   parser: '@typescript-eslint/parser',
   plugins: ['@typescript-eslint'],
@@ -10,5 +10,3 @@ const config = {
     '@typescript-eslint/no-unused-vars': 'warn',
   },
 };
-
-export default config;
