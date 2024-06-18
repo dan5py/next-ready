@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   // Type check TypeScript files
   '**/*.(ts|tsx)': () => 'pnpm tsc --noEmit',
 
