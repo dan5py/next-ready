@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import { ArrowRightIcon } from 'lucide-react';
 
 export default function Home() {
   return (
@@ -53,7 +52,7 @@ export default function Home() {
         <span className="text-sm">
           Template by{' '}
           <a
-            className="bg-gradient-to-r from-[#ff0080] to-[#7928ca] bg-clip-text font-medium text-transparent transition-all hover:text-xl"
+            className="bg-gradient-to-r from-[#ff0080] to-[#7928ca] bg-clip-text font-medium text-transparent decoration-[#7928ca] hover:underline"
             href="https://github.com/dan5py"
             target="_blank"
             rel="noopener noreferrer"
